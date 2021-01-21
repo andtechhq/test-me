@@ -6,7 +6,7 @@ You will essentially be editing this test website by adding your name onto the h
 
 > By the end of this tutorial, you will be able to confidently contribute to other GitHub repos.
 
-***Pre-req:** You should have a dev environment set up on your computer. Checkout the &TECH Dev Environment Set Up Guide if you haven't already*
+***Pre-req:** You should have a dev environment set up on your computer. Checkout the [&TECH Dev Environment Set Up Guide](https://doc.clickup.com/p/h/84ty3-399/ef3b451cb91aa06) if you haven't already*
 
 # Some Background Info
 
